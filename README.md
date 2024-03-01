@@ -1,11 +1,11 @@
 
 
 <h1 align="center">Hi 👋, I'm Abdullah Karakoç</h1>
-<h3 align="center">A passionate Backend developer from Türkiye</h3>
+<h3 align="center">A passionate Embedded Software developer from Türkiye</h3>
 
-- 🔭 I’m currently working on **Java**
+- 🔭 I’m currently working on **Embedded systems**
 
-- 💬 Ask me about **Java, Python, C, Go, Rust, Linux**
+- 💬 Ask me about **Java, Python, C, C++, Go, Rust, Linux**
 
 - 📫 How to reach me **abdullahkrkc1453@gmail.com**
 
