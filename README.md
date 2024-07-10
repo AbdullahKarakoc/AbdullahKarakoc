@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Abdullah Karakoç</h1>
 <h3 align="center">A passionate Embedded Software developer from Türkiye</h3>
 
-- 🔭 I’m currently working on **Embedded systems**
+- 🔭 I’m currently working on **Backend development**
 
 - 💬 Ask me about **Java, Python, C, C++, Go, Rust, Linux**
 
