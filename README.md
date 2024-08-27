@@ -1,6 +1,11 @@
 <h1 align="center">Hi 👋, I'm Abdullah Karakoç</h1>
 <h3 align="center">A passionate Backend Software developer from Türkiye</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=AbdullahKarakoc&label=Profile%20views&color=0e75b6&style=flat" alt="AbdullahKarakoc" /> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=AbdullahKarakoc" alt="AbdullahKarakoc" /></a> </p>
+
+
+
 - 🔭 I’m currently working on **Backend development**
 
 - 💬 Ask me about **Java, Python, C, C++, Go, Rust, Linux**
@@ -11,10 +16,6 @@
 <p align="left">
 <a href="https://www.linkedin.com/in/abdullah-karako%C3%A7-43909a221/?originalSubdomain=tr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abdullah karakoç" height="30" width="40" /></a>
 </p>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=AbdullahKarakoc&label=Profile%20views&color=0e75b6&style=flat" alt="AbdullahKarakoc" /> </p>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=AbdullahKarakoc" alt="AbdullahKarakoc" /></a> </p>
-
 
 
 <h3 align="left">Languages and Tools:</h3>
